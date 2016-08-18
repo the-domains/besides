@@ -1,0 +1,14 @@
+layout_spectrum: 0.6710008152294904
+typography_spectrum: 0.21597327291965485
+color:
+  brandStrength: 0.17600957746617496
+  lightness: 0.24699228652752936
+  saturation: 0.075457573402673
+  rhythmicContrast: 0.5164080166723579
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Besides
